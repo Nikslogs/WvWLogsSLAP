@@ -1,5 +1,29 @@
 [
   {
+    "id": "20260223-190408-0ygl",
+    "title": "Sukram Krad, Willow Stormhunter",
+    "commanders": [
+      "Sukram Krad",
+      "Willow Stormhunter"
+    ],
+    "dateStart": "2026-02-23T09:04:08.000Z",
+    "dateEnd": "2026-02-23T11:23:51.000Z",
+    "dateLabel": "2/23/2026, 7:04:08 PM - 2/23/2026, 9:23:51 PM",
+    "url": "https://Nikslogs.github.io/WvWLogsSLAP/?report=20260223-190408-0ygl",
+    "summary": {
+      "borderlandsPct": 0,
+      "mapSlices": [
+        {
+          "name": "Eternal Battlegrounds",
+          "value": 9,
+          "color": "#ffffff"
+        }
+      ],
+      "avgSquadSize": 54,
+      "avgEnemySize": 23
+    }
+  },
+  {
     "id": "20260222-190626-lcoc",
     "title": "Markus Is One",
     "commanders": [
