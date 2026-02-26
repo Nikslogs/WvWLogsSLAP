@@ -1,5 +1,33 @@
 [
   {
+    "id": "20260226-184414-4w6x",
+    "title": "Markus Is One",
+    "commanders": [
+      "Markus Is One"
+    ],
+    "dateStart": "2026-02-26T08:44:14.000Z",
+    "dateEnd": "2026-02-26T11:57:05.000Z",
+    "dateLabel": "2/26/2026, 6:44:14 PM - 2/26/2026, 9:57:05 PM",
+    "url": "https://Nikslogs.github.io/WvWLogsSLAP/?report=20260226-184414-4w6x",
+    "summary": {
+      "borderlandsPct": 0.058823529411764705,
+      "mapSlices": [
+        {
+          "name": "Eternal Battlegrounds",
+          "value": 16,
+          "color": "#ffffff"
+        },
+        {
+          "name": "Green Borderlands",
+          "value": 1,
+          "color": "#22c55e"
+        }
+      ],
+      "avgSquadSize": 36,
+      "avgEnemySize": 19
+    }
+  },
+  {
     "id": "20260225-184422-gh67",
     "title": "Markus Is One",
     "commanders": [
