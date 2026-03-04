@@ -1,174 +1,210 @@
-[
-  {
-    "id": "20260301-183524-p1gu",
-    "title": "Markus Is One",
-    "commanders": [
-      "Markus Is One"
-    ],
-    "dateStart": "2026-03-01T08:35:24.000Z",
-    "dateEnd": "2026-03-01T10:11:08.000Z",
-    "dateLabel": "3/1/2026, 6:35:24 PM - 3/1/2026, 8:11:08 PM",
-    "url": "https://Nikslogs.github.io/WvWLogsSLAP/?report=20260301-183524-p1gu",
-    "summary": {
-      "borderlandsPct": 0,
-      "mapSlices": [
-        {
-          "name": "Eternal Battlegrounds",
-          "value": 11,
-          "color": "#ffffff"
-        }
-      ],
-      "avgSquadSize": 45,
-      "avgEnemySize": 16
-    }
+{
+  "siteTheme": {
+    "ui": "classic",
+    "paletteId": "Arcane",
+    "kineticFont": "default"
   },
-  {
-    "id": "20260227-191918-2726",
-    "title": "Markus Lifetaker",
-    "commanders": [
-      "Markus Lifetaker"
-    ],
-    "dateStart": "2026-02-27T09:19:18.000Z",
-    "dateEnd": "2026-02-27T11:57:42.000Z",
-    "dateLabel": "2/27/2026, 7:19:18 PM - 2/27/2026, 9:57:42 PM",
-    "url": "https://Nikslogs.github.io/WvWLogsSLAP/?report=20260227-191918-2726",
-    "summary": {
-      "borderlandsPct": 0.11428571428571428,
-      "mapSlices": [
-        {
-          "name": "Eternal Battlegrounds",
-          "value": 31,
-          "color": "#ffffff"
-        },
-        {
-          "name": "Green Borderlands",
-          "value": 4,
-          "color": "#22c55e"
-        }
+  "entries": [
+    {
+      "id": "20260304-195355-sg2z",
+      "title": "Erika Lawless, Markus Is One",
+      "commanders": [
+        "Erika Lawless",
+        "Markus Is One"
       ],
-      "avgSquadSize": 28,
-      "avgEnemySize": 30
-    }
-  },
-  {
-    "id": "20260226-184414-4w6x",
-    "title": "Markus Is One",
-    "commanders": [
-      "Markus Is One"
-    ],
-    "dateStart": "2026-02-26T08:44:14.000Z",
-    "dateEnd": "2026-02-26T11:57:05.000Z",
-    "dateLabel": "2/26/2026, 6:44:14 PM - 2/26/2026, 9:57:05 PM",
-    "url": "https://Nikslogs.github.io/WvWLogsSLAP/?report=20260226-184414-4w6x",
-    "summary": {
-      "borderlandsPct": 0.058823529411764705,
-      "mapSlices": [
-        {
-          "name": "Eternal Battlegrounds",
-          "value": 16,
-          "color": "#ffffff"
-        },
-        {
-          "name": "Green Borderlands",
-          "value": 1,
-          "color": "#22c55e"
-        }
+      "dateStart": "2026-03-04T09:53:55.000Z",
+      "dateEnd": "2026-03-04T11:40:08.000Z",
+      "dateLabel": "3/4/2026, 7:53:55 PM - 3/4/2026, 9:40:08 PM",
+      "url": "https://Nikslogs.github.io/WvWLogsSLAP/?report=20260304-195355-sg2z",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Edge of the Mists",
+            "value": 11,
+            "color": "#64748b"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 3,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 17,
+        "avgEnemySize": 18
+      }
+    },
+    {
+      "id": "20260301-183524-p1gu",
+      "title": "Markus Is One",
+      "commanders": [
+        "Markus Is One"
       ],
-      "avgSquadSize": 36,
-      "avgEnemySize": 19
-    }
-  },
-  {
-    "id": "20260225-184422-gh67",
-    "title": "Markus Is One",
-    "commanders": [
-      "Markus Is One"
-    ],
-    "dateStart": "2026-02-25T08:44:22.000Z",
-    "dateEnd": "2026-02-25T10:00:41.000Z",
-    "dateLabel": "2/25/2026, 6:44:22 PM - 2/25/2026, 8:00:41 PM",
-    "url": "https://Nikslogs.github.io/WvWLogsSLAP/?report=20260225-184422-gh67",
-    "summary": {
-      "borderlandsPct": 0,
-      "mapSlices": [
-        {
-          "name": "Eternal Battlegrounds",
-          "value": 10,
-          "color": "#ffffff"
-        }
+      "dateStart": "2026-03-01T08:35:24.000Z",
+      "dateEnd": "2026-03-01T10:11:08.000Z",
+      "dateLabel": "3/1/2026, 6:35:24 PM - 3/1/2026, 8:11:08 PM",
+      "url": "https://Nikslogs.github.io/WvWLogsSLAP/?report=20260301-183524-p1gu",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 11,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 45,
+        "avgEnemySize": 16
+      }
+    },
+    {
+      "id": "20260227-191918-2726",
+      "title": "Markus Lifetaker",
+      "commanders": [
+        "Markus Lifetaker"
       ],
-      "avgSquadSize": 35,
-      "avgEnemySize": 19
-    }
-  },
-  {
-    "id": "20260224-191802-upe1",
-    "title": "Napalm Phantasm",
-    "commanders": [
-      "Napalm Phantasm"
-    ],
-    "dateStart": "2026-02-24T09:18:02.000Z",
-    "dateEnd": "2026-02-24T11:00:58.000Z",
-    "dateLabel": "2/24/2026, 7:18:02 PM - 2/24/2026, 9:00:58 PM",
-    "url": "https://Nikslogs.github.io/WvWLogsSLAP/?report=20260224-191802-upe1",
-    "summary": {
-      "borderlandsPct": 0,
-      "mapSlices": [
-        {
-          "name": "Eternal Battlegrounds",
-          "value": 6,
-          "color": "#ffffff"
-        }
+      "dateStart": "2026-02-27T09:19:18.000Z",
+      "dateEnd": "2026-02-27T11:57:42.000Z",
+      "dateLabel": "2/27/2026, 7:19:18 PM - 2/27/2026, 9:57:42 PM",
+      "url": "https://Nikslogs.github.io/WvWLogsSLAP/?report=20260227-191918-2726",
+      "summary": {
+        "borderlandsPct": 0.11428571428571428,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 31,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 4,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 28,
+        "avgEnemySize": 30
+      }
+    },
+    {
+      "id": "20260226-184414-4w6x",
+      "title": "Markus Is One",
+      "commanders": [
+        "Markus Is One"
       ],
-      "avgSquadSize": 36,
-      "avgEnemySize": 13
-    }
-  },
-  {
-    "id": "20260223-190408-0ygl",
-    "title": "Sukram Krad, Willow Stormhunter",
-    "commanders": [
-      "Sukram Krad",
-      "Willow Stormhunter"
-    ],
-    "dateStart": "2026-02-23T09:04:08.000Z",
-    "dateEnd": "2026-02-23T11:23:51.000Z",
-    "dateLabel": "2/23/2026, 7:04:08 PM - 2/23/2026, 9:23:51 PM",
-    "url": "https://Nikslogs.github.io/WvWLogsSLAP/?report=20260223-190408-0ygl",
-    "summary": {
-      "borderlandsPct": 0,
-      "mapSlices": [
-        {
-          "name": "Eternal Battlegrounds",
-          "value": 9,
-          "color": "#ffffff"
-        }
+      "dateStart": "2026-02-26T08:44:14.000Z",
+      "dateEnd": "2026-02-26T11:57:05.000Z",
+      "dateLabel": "2/26/2026, 6:44:14 PM - 2/26/2026, 9:57:05 PM",
+      "url": "https://Nikslogs.github.io/WvWLogsSLAP/?report=20260226-184414-4w6x",
+      "summary": {
+        "borderlandsPct": 0.058823529411764705,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 16,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 1,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 36,
+        "avgEnemySize": 19
+      }
+    },
+    {
+      "id": "20260225-184422-gh67",
+      "title": "Markus Is One",
+      "commanders": [
+        "Markus Is One"
       ],
-      "avgSquadSize": 54,
-      "avgEnemySize": 23
-    }
-  },
-  {
-    "id": "20260222-190626-lcoc",
-    "title": "Markus Is One",
-    "commanders": [
-      "Markus Is One"
-    ],
-    "dateStart": "2026-02-22T09:06:26.000Z",
-    "dateEnd": "2026-02-22T10:30:27.000Z",
-    "dateLabel": "2/22/2026, 7:06:26 PM - 2/22/2026, 8:30:27 PM",
-    "url": "https://Nikslogs.github.io/WvWLogsSLAP/?report=20260222-190626-lcoc",
-    "summary": {
-      "borderlandsPct": 0,
-      "mapSlices": [
-        {
-          "name": "Eternal Battlegrounds",
-          "value": 13,
-          "color": "#ffffff"
-        }
+      "dateStart": "2026-02-25T08:44:22.000Z",
+      "dateEnd": "2026-02-25T10:00:41.000Z",
+      "dateLabel": "2/25/2026, 6:44:22 PM - 2/25/2026, 8:00:41 PM",
+      "url": "https://Nikslogs.github.io/WvWLogsSLAP/?report=20260225-184422-gh67",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 10,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 35,
+        "avgEnemySize": 19
+      }
+    },
+    {
+      "id": "20260224-191802-upe1",
+      "title": "Napalm Phantasm",
+      "commanders": [
+        "Napalm Phantasm"
       ],
-      "avgSquadSize": 44,
-      "avgEnemySize": 49
+      "dateStart": "2026-02-24T09:18:02.000Z",
+      "dateEnd": "2026-02-24T11:00:58.000Z",
+      "dateLabel": "2/24/2026, 7:18:02 PM - 2/24/2026, 9:00:58 PM",
+      "url": "https://Nikslogs.github.io/WvWLogsSLAP/?report=20260224-191802-upe1",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 6,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 36,
+        "avgEnemySize": 13
+      }
+    },
+    {
+      "id": "20260223-190408-0ygl",
+      "title": "Sukram Krad, Willow Stormhunter",
+      "commanders": [
+        "Sukram Krad",
+        "Willow Stormhunter"
+      ],
+      "dateStart": "2026-02-23T09:04:08.000Z",
+      "dateEnd": "2026-02-23T11:23:51.000Z",
+      "dateLabel": "2/23/2026, 7:04:08 PM - 2/23/2026, 9:23:51 PM",
+      "url": "https://Nikslogs.github.io/WvWLogsSLAP/?report=20260223-190408-0ygl",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 9,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 54,
+        "avgEnemySize": 23
+      }
+    },
+    {
+      "id": "20260222-190626-lcoc",
+      "title": "Markus Is One",
+      "commanders": [
+        "Markus Is One"
+      ],
+      "dateStart": "2026-02-22T09:06:26.000Z",
+      "dateEnd": "2026-02-22T10:30:27.000Z",
+      "dateLabel": "2/22/2026, 7:06:26 PM - 2/22/2026, 8:30:27 PM",
+      "url": "https://Nikslogs.github.io/WvWLogsSLAP/?report=20260222-190626-lcoc",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 13,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 44,
+        "avgEnemySize": 49
+      }
     }
-  }
-]
+  ]
+}
