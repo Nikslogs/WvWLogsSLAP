@@ -6,6 +6,29 @@
   },
   "entries": [
     {
+      "id": "20260304-204443-w257",
+      "title": "Markus Is One",
+      "commanders": [
+        "Markus Is One"
+      ],
+      "dateStart": "2026-03-04T10:44:43.000Z",
+      "dateEnd": "2026-03-04T11:40:08.000Z",
+      "dateLabel": "3/4/2026, 8:44:43 PM - 3/4/2026, 9:40:08 PM",
+      "url": "https://Nikslogs.github.io/WvWLogsSLAP/?report=20260304-204443-w257",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 3,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 22,
+        "avgEnemySize": 28
+      }
+    },
+    {
       "id": "20260304-195355-4gnr",
       "title": "Erika Lawless, Markus Is One",
       "commanders": [
