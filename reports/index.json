@@ -6,6 +6,34 @@
   },
   "entries": [
     {
+      "id": "20260310-185242-3rj3",
+      "title": "Markus Is One",
+      "commanders": [
+        "Markus Is One"
+      ],
+      "dateStart": "2026-03-10T08:52:42.000Z",
+      "dateEnd": "2026-03-10T11:38:03.000Z",
+      "dateLabel": "3/10/2026, 6:52:42 PM - 3/10/2026, 9:38:03 PM",
+      "url": "https://Nikslogs.github.io/WvWLogsSLAP/?report=20260310-185242-3rj3",
+      "summary": {
+        "borderlandsPct": 0.02564102564102564,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 38,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 1,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 26,
+        "avgEnemySize": 29
+      }
+    },
+    {
       "id": "20260307-193226-yfh8",
       "title": "Nakoma Reika",
       "commanders": [
