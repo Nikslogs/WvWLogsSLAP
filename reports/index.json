@@ -3,6 +3,34 @@
   "glassSurfaces": false,
   "entries": [
     {
+      "id": "20260408-002456-ezrj",
+      "title": "Alpha Thug",
+      "commanders": [
+        "Alpha Thug"
+      ],
+      "dateStart": "2026-04-07T14:24:56.000Z",
+      "dateEnd": "2026-04-07T15:23:55.000Z",
+      "dateLabel": "4/8/2026, 12:24:56 AM - 4/8/2026, 1:23:55 AM",
+      "url": "https://Nikslogs.github.io/WvWLogsSLAP/?report=20260408-002456-ezrj",
+      "summary": {
+        "borderlandsPct": 0.4444444444444444,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 5,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 4,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 27,
+        "avgEnemySize": 21
+      }
+    },
+    {
       "id": "20260407-194020-vs0w",
       "title": "Lucee Deville, Markus Is One",
       "commanders": [
