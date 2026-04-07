@@ -1,10 +1,31 @@
 {
-  "siteTheme": {
-    "ui": "classic",
-    "paletteId": "Arcane",
-    "kineticFont": "default"
-  },
+  "colorPalette": "electric-blue",
+  "glassSurfaces": false,
   "entries": [
+    {
+      "id": "20260407-194020-vs0w",
+      "title": "Lucee Deville, Markus Is One",
+      "commanders": [
+        "Lucee Deville",
+        "Markus Is One"
+      ],
+      "dateStart": "2026-04-07T09:40:20.000Z",
+      "dateEnd": "2026-04-07T11:22:46.000Z",
+      "dateLabel": "4/7/2026, 7:40:20 PM - 4/7/2026, 9:22:46 PM",
+      "url": "https://Nikslogs.github.io/WvWLogsSLAP/?report=20260407-194020-vs0w",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 22,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 35,
+        "avgEnemySize": 34
+      }
+    },
     {
       "id": "20260324-185920-ggb6",
       "title": "The Deadly Koala",
