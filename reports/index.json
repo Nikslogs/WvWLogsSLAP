@@ -3,6 +3,34 @@
   "glassSurfaces": false,
   "entries": [
     {
+      "id": "20260408-234920-wi48",
+      "title": "Fiddyb",
+      "commanders": [
+        "Fiddyb"
+      ],
+      "dateStart": "2026-04-08T13:49:20.000Z",
+      "dateEnd": "2026-04-08T14:54:07.000Z",
+      "dateLabel": "4/8/2026, 11:49:20 PM - 4/9/2026, 12:54:07 AM",
+      "url": "https://Nikslogs.github.io/WvWLogsSLAP/?report=20260408-234920-wi48",
+      "summary": {
+        "borderlandsPct": 0.125,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 7,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 1,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 18,
+        "avgEnemySize": 26
+      }
+    },
+    {
       "id": "20260408-002456-ezrj",
       "title": "Alpha Thug",
       "commanders": [
