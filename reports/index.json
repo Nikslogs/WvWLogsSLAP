@@ -3,6 +3,29 @@
   "glassSurfaces": false,
   "entries": [
     {
+      "id": "20260409-201143-ublm",
+      "title": "Markus Is One",
+      "commanders": [
+        "Markus Is One"
+      ],
+      "dateStart": "2026-04-09T10:11:43.000Z",
+      "dateEnd": "2026-04-09T11:16:39.000Z",
+      "dateLabel": "4/9/2026, 8:11:43 PM - 4/9/2026, 9:16:39 PM",
+      "url": "https://Nikslogs.github.io/WvWLogsSLAP/?report=20260409-201143-ublm",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 30,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 37,
+        "avgEnemySize": 32
+      }
+    },
+    {
       "id": "20260409-121255-oj1l",
       "title": "Nico Da Illustrious",
       "commanders": [
