@@ -3,6 +3,39 @@
   "glassSurfaces": false,
   "entries": [
     {
+      "id": "20260409-121255-oj1l",
+      "title": "Nico Da Illustrious",
+      "commanders": [
+        "Nico Da Illustrious"
+      ],
+      "dateStart": "2026-04-09T02:12:55.000Z",
+      "dateEnd": "2026-04-09T03:13:50.000Z",
+      "dateLabel": "4/9/2026, 12:12:55 PM - 4/9/2026, 1:13:50 PM",
+      "url": "https://Nikslogs.github.io/WvWLogsSLAP/?report=20260409-121255-oj1l",
+      "summary": {
+        "borderlandsPct": 0.90625,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 27,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 3,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 2,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 40,
+        "avgEnemySize": 49
+      }
+    },
+    {
       "id": "20260408-234920-wi48",
       "title": "Fiddyb",
       "commanders": [
