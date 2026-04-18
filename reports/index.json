@@ -3,6 +3,34 @@
   "glassSurfaces": false,
   "entries": [
     {
+      "id": "20260418-200656-gjrg",
+      "title": "Markus Is One",
+      "commanders": [
+        "Markus Is One"
+      ],
+      "dateStart": "2026-04-18T10:06:56.000Z",
+      "dateEnd": "2026-04-18T11:11:27.000Z",
+      "dateLabel": "4/18/2026, 8:06:56 PM - 4/18/2026, 9:11:27 PM",
+      "url": "https://Nikslogs.github.io/WvWLogsSLAP/?report=20260418-200656-gjrg",
+      "summary": {
+        "borderlandsPct": 0.045454545454545456,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 21,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 1,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 34,
+        "avgEnemySize": 30
+      }
+    },
+    {
       "id": "20260411-202643-kdvv",
       "title": "Markus Lifetaker",
       "commanders": [
