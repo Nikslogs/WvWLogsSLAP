@@ -3,6 +3,29 @@
   "glassSurfaces": false,
   "entries": [
     {
+      "id": "20260421-200633-5lqe",
+      "title": "Willow Stormhunter",
+      "commanders": [
+        "Willow Stormhunter"
+      ],
+      "dateStart": "2026-04-21T10:06:33.000Z",
+      "dateEnd": "2026-04-21T11:22:14.000Z",
+      "dateLabel": "4/21/2026, 8:06:33 PM - 4/21/2026, 9:22:14 PM",
+      "url": "https://Nikslogs.github.io/WvWLogsSLAP/?report=20260421-200633-5lqe",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 18,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 43,
+        "avgEnemySize": 37
+      }
+    },
+    {
       "id": "20260420-195505-y4pt",
       "title": "Markus Is One",
       "commanders": [
