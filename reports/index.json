@@ -3,6 +3,30 @@
   "glassSurfaces": false,
   "entries": [
     {
+      "id": "20260423-194939-jexy",
+      "title": "Markus Is One, The Howl Of Wolves",
+      "commanders": [
+        "Markus Is One",
+        "The Howl Of Wolves"
+      ],
+      "dateStart": "2026-04-23T09:49:39.000Z",
+      "dateEnd": "2026-04-23T11:41:41.000Z",
+      "dateLabel": "4/23/2026, 7:49:39 PM - 4/23/2026, 9:41:41 PM",
+      "url": "https://Nikslogs.github.io/WvWLogsSLAP/?report=20260423-194939-jexy",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 15,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 34,
+        "avgEnemySize": 23
+      }
+    },
+    {
       "id": "20260422-195713-ai91",
       "title": "Willow Stormhunter",
       "commanders": [
