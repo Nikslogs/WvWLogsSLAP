@@ -3,6 +3,34 @@
   "glassSurfaces": false,
   "entries": [
     {
+      "id": "20260424-200845-s8hv",
+      "title": "Savannah Summers",
+      "commanders": [
+        "Savannah Summers"
+      ],
+      "dateStart": "2026-04-24T10:08:45.000Z",
+      "dateEnd": "2026-04-24T12:02:07.000Z",
+      "dateLabel": "4/24/2026, 8:08:45 PM - 4/24/2026, 10:02:07 PM",
+      "url": "https://Nikslogs.github.io/WvWLogsSLAP/?report=20260424-200845-s8hv",
+      "summary": {
+        "borderlandsPct": 0.2222222222222222,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 7,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 2,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 29,
+        "avgEnemySize": 18
+      }
+    },
+    {
       "id": "20260423-194939-jexy",
       "title": "Markus Is One, The Howl Of Wolves",
       "commanders": [
