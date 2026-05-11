@@ -1,7 +1,36 @@
 {
   "colorPalette": "electric-blue",
   "glassSurfaces": false,
+  "glassmorphic": false,
   "entries": [
+    {
+      "id": "20260511-201159-49bj",
+      "title": "Willow Stormhunter",
+      "commanders": [
+        "Willow Stormhunter"
+      ],
+      "dateStart": "2026-05-11T10:11:59.000Z",
+      "dateEnd": "2026-05-11T11:51:36.000Z",
+      "dateLabel": "5/11/2026, 8:11:59 PM - 5/11/2026, 9:51:36 PM",
+      "url": "https://Nikslogs.github.io/WvWLogsSLAP/?report=20260511-201159-49bj",
+      "summary": {
+        "borderlandsPct": 0.09090909090909091,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 10,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 1,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 37,
+        "avgEnemySize": 18
+      }
+    },
     {
       "id": "20260501-203837-vlar",
       "title": "Markus Is One",
