@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260525-202224-7hea",
+      "title": "Willow Stormhunter",
+      "commanders": [
+        "Willow Stormhunter"
+      ],
+      "dateStart": "2026-05-25T10:22:24.000Z",
+      "dateEnd": "2026-05-25T11:59:55.000Z",
+      "dateLabel": "5/25/2026, 8:22:24 PM - 5/25/2026, 9:59:55 PM",
+      "url": "https://Nikslogs.github.io/WvWLogsSLAP/?report=20260525-202224-7hea",
+      "summary": {
+        "borderlandsPct": 0.1875,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 13,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 3,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 40,
+        "avgEnemySize": 23
+      }
+    },
+    {
       "id": "20260511-201159-49bj",
       "title": "Willow Stormhunter",
       "commanders": [
