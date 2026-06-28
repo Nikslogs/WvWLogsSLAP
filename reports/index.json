@@ -4,6 +4,30 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260628-195445-xdga",
+      "title": "Napalm Phantasm, Sukram Krad",
+      "commanders": [
+        "Napalm Phantasm",
+        "Sukram Krad"
+      ],
+      "dateStart": "2026-06-28T09:54:45.000Z",
+      "dateEnd": "2026-06-28T11:07:46.000Z",
+      "dateLabel": "6/28/2026, 7:54:45 PM - 6/28/2026, 9:07:46 PM",
+      "url": "https://Nikslogs.github.io/WvWLogsSLAP/?report=20260628-195445-xdga",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 26,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 37,
+        "avgEnemySize": 42
+      }
+    },
+    {
       "id": "20260626-203527-5voo",
       "title": "Willow Stormhunter",
       "commanders": [
