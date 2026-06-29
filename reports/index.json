@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260629-201404-1wpl",
+      "title": "The Nikcident Killa",
+      "commanders": [
+        "The Nikcident Killa"
+      ],
+      "dateStart": "2026-06-29T10:14:04.000Z",
+      "dateEnd": "2026-06-29T11:08:53.000Z",
+      "dateLabel": "6/29/2026, 8:14:04 PM - 6/29/2026, 9:08:53 PM",
+      "url": "https://Nikslogs.github.io/WvWLogsSLAP/?report=20260629-201404-1wpl",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 23,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 35,
+        "avgEnemySize": 30
+      }
+    },
+    {
       "id": "20260628-195445-xdga",
       "title": "Napalm Phantasm, Sukram Krad",
       "commanders": [
