@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260706-195436-ca4j",
+      "title": "The Nikcident Killa",
+      "commanders": [
+        "The Nikcident Killa"
+      ],
+      "dateStart": "2026-07-06T09:54:36.000Z",
+      "dateEnd": "2026-07-06T12:10:02.000Z",
+      "dateLabel": "7/6/2026, 7:54:36 PM - 7/6/2026, 10:10:02 PM",
+      "url": "https://Nikslogs.github.io/WvWLogsSLAP/?report=20260706-195436-ca4j",
+      "summary": {
+        "borderlandsPct": 0.25,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 9,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 3,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 34,
+        "avgEnemySize": 34
+      }
+    },
+    {
       "id": "20260704-193246-eget",
       "title": "Markus Is One",
       "commanders": [
