@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260723-192210-9zvw",
+      "title": "The Nikcident Killa",
+      "commanders": [
+        "The Nikcident Killa"
+      ],
+      "dateStart": "2026-07-23T09:22:10.000Z",
+      "dateEnd": "2026-07-23T10:56:25.000Z",
+      "dateLabel": "7/23/2026, 7:22:10 PM - 7/23/2026, 8:56:25 PM",
+      "url": "https://Nikslogs.github.io/WvWLogsSLAP/?report=20260723-192210-9zvw",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 26,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 28,
+        "avgEnemySize": 40
+      }
+    },
+    {
       "id": "20260714-200644-ppoo",
       "title": "The Nikcident Killa",
       "commanders": [
