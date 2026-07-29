@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260729-200813-hm9b",
+      "title": "Markus Is One",
+      "commanders": [
+        "Markus Is One"
+      ],
+      "dateStart": "2026-07-29T10:08:13.000Z",
+      "dateEnd": "2026-07-29T10:58:11.000Z",
+      "dateLabel": "7/29/2026, 8:08:13 PM - 7/29/2026, 8:58:11 PM",
+      "url": "https://Nikslogs.github.io/WvWLogsSLAP/?report=20260729-200813-hm9b",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 27,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 44,
+        "avgEnemySize": 32
+      }
+    },
+    {
       "id": "20260728-190132-yu94",
       "title": "Markus Is One, Nikita Bloodworth",
       "commanders": [
