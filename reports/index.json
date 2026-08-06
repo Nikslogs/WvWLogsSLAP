@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260806-193102-hf7q",
+      "title": "Markus Is One",
+      "commanders": [
+        "Markus Is One"
+      ],
+      "guild": {
+        "id": "187E83EC-8A2F-E611-80D4-E4115BE8E905",
+        "name": "Some Lazy Aussie Players",
+        "tag": "SLAP"
+      },
+      "dateStart": "2026-08-06T09:31:02.000Z",
+      "dateEnd": "2026-08-06T11:58:52.000Z",
+      "dateLabel": "8/6/2026, 7:31:02 PM - 8/6/2026, 9:58:52 PM",
+      "url": "https://Nikslogs.github.io/WvWLogsSLAP/?report=20260806-193102-hf7q",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 16,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 35,
+        "avgEnemySize": 36
+      }
+    },
+    {
       "id": "20260804-191416-wgmo",
       "title": "The Deadly Koala",
       "commanders": [
