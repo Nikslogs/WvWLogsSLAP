@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260813-201122-673f",
+      "title": "Miss Léading",
+      "commanders": [
+        "Miss Léading"
+      ],
+      "guild": {
+        "id": "187E83EC-8A2F-E611-80D4-E4115BE8E905",
+        "name": "Some Lazy Aussie Players",
+        "tag": "SLAP"
+      },
+      "dateStart": "2026-08-13T10:11:22.000Z",
+      "dateEnd": "2026-08-13T11:29:52.000Z",
+      "dateLabel": "8/13/2026, 8:11:22 PM - 8/13/2026, 9:29:52 PM",
+      "url": "https://Nikslogs.github.io/WvWLogsSLAP/?report=20260813-201122-673f",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 10,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 40,
+        "avgEnemySize": 11
+      }
+    },
+    {
       "id": "20260811-203444-tg4r",
       "title": "Drakontek, Napalm Revs, The Deadly Koala, Wanda Westwood",
       "commanders": [
