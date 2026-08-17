@@ -4,6 +4,39 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260817-201643-tr5p",
+      "title": "Miss Léading",
+      "commanders": [
+        "Miss Léading"
+      ],
+      "guild": {
+        "id": "187E83EC-8A2F-E611-80D4-E4115BE8E905",
+        "name": "Some Lazy Aussie Players",
+        "tag": "SLAP"
+      },
+      "dateStart": "2026-08-17T10:16:43.000Z",
+      "dateEnd": "2026-08-17T11:43:03.000Z",
+      "dateLabel": "8/17/2026, 8:16:43 PM - 8/17/2026, 9:43:03 PM",
+      "url": "https://Nikslogs.github.io/WvWLogsSLAP/?report=20260817-201643-tr5p",
+      "summary": {
+        "borderlandsPct": 0.058823529411764705,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 16,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 1,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 37,
+        "avgEnemySize": 32
+      }
+    },
+    {
       "id": "20260815-200741-kx1z",
       "title": "Miss Léading",
       "commanders": [
