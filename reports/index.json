@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260818-202357-xtk0",
+      "title": "The Deadly Koala",
+      "commanders": [
+        "The Deadly Koala"
+      ],
+      "guild": {
+        "id": "187E83EC-8A2F-E611-80D4-E4115BE8E905",
+        "name": "Some Lazy Aussie Players",
+        "tag": "SLAP"
+      },
+      "dateStart": "2026-08-18T10:23:57.000Z",
+      "dateEnd": "2026-08-18T11:13:03.000Z",
+      "dateLabel": "8/18/2026, 8:23:57 PM - 8/18/2026, 9:13:03 PM",
+      "url": "https://Nikslogs.github.io/WvWLogsSLAP/?report=20260818-202357-xtk0",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 23,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 31,
+        "avgEnemySize": 31
+      }
+    },
+    {
       "id": "20260817-201643-tr5p",
       "title": "Miss Léading",
       "commanders": [
