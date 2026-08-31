@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260831-195844-agk5",
+      "title": "Miss Léading",
+      "commanders": [
+        "Miss Léading"
+      ],
+      "guild": {
+        "id": "187E83EC-8A2F-E611-80D4-E4115BE8E905",
+        "name": "Some Lazy Aussie Players",
+        "tag": "SLAP"
+      },
+      "dateStart": "2026-08-31T09:58:44.000Z",
+      "dateEnd": "2026-08-31T11:03:11.678Z",
+      "dateLabel": "8/31/2026, 7:58:44 PM - 8/31/2026, 9:03:11 PM",
+      "url": "https://Nikslogs.github.io/WvWLogsSLAP/?report=20260831-195844-agk5",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 10,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 38,
+        "avgEnemySize": 24
+      }
+    },
+    {
       "id": "20260827-201325-0fto",
       "title": "Markus Is One",
       "commanders": [
