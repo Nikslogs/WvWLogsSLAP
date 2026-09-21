@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260921-205036-afxo",
+      "title": "Miss Léading",
+      "commanders": [
+        "Miss Léading"
+      ],
+      "guild": {
+        "id": "187E83EC-8A2F-E611-80D4-E4115BE8E905",
+        "name": "Some Lazy Aussie Players",
+        "tag": "SLAP"
+      },
+      "dateStart": "2026-09-21T10:50:36.000Z",
+      "dateEnd": "2026-09-21T11:38:55.940Z",
+      "dateLabel": "9/21/2026, 8:50:36 PM - 9/21/2026, 9:38:55 PM",
+      "url": "https://Nikslogs.github.io/WvWLogsSLAP/?report=20260921-205036-afxo",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 14,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 40,
+        "avgEnemySize": 34
+      }
+    },
+    {
       "id": "20260908-201700-3nwk",
       "title": "Miss Léading",
       "commanders": [
