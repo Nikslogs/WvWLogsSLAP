@@ -5,6 +5,44 @@
   "axiDesign": false,
   "entries": [
     {
+      "id": "20260923-234345-lklv",
+      "title": "Felicia Baptiste",
+      "commanders": [
+        "Felicia Baptiste"
+      ],
+      "guild": {
+        "id": "5F6B0649-C15E-4EB1-A5BB-30EB0FCCCAEE",
+        "name": "Dropbear Preservation Society",
+        "tag": "DPS"
+      },
+      "dateStart": "2026-09-23T13:43:45.000Z",
+      "dateEnd": "2026-09-23T14:06:52.116Z",
+      "dateLabel": "9/23/2026, 11:43:45 PM - 9/24/2026, 12:06:52 AM",
+      "url": "https://Nikslogs.github.io/WvWLogsSLAP/?report=20260923-234345-lklv",
+      "summary": {
+        "borderlandsPct": 0.5625,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 8,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 7,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 1,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 12,
+        "avgEnemySize": 21
+      }
+    },
+    {
       "id": "20260923-202726-0bky",
       "title": "The Deadly Koala",
       "commanders": [
