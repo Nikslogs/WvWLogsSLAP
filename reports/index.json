@@ -5,6 +5,34 @@
   "axiDesign": false,
   "entries": [
     {
+      "id": "20260924-204844-h7p4",
+      "title": "Markus Is One",
+      "commanders": [
+        "Markus Is One"
+      ],
+      "guild": {
+        "id": "187E83EC-8A2F-E611-80D4-E4115BE8E905",
+        "name": "Some Lazy Aussie Players",
+        "tag": "SLAP"
+      },
+      "dateStart": "2026-09-24T10:48:44.000Z",
+      "dateEnd": "2026-09-24T11:15:15.905Z",
+      "dateLabel": "9/24/2026, 8:48:44 PM - 9/24/2026, 9:15:15 PM",
+      "url": "https://Nikslogs.github.io/WvWLogsSLAP/?report=20260924-204844-h7p4",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 22,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 34,
+        "avgEnemySize": 26
+      }
+    },
+    {
       "id": "20260923-234345-lklv",
       "title": "Felicia Baptiste",
       "commanders": [
