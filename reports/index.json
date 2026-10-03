@@ -1,9 +1,37 @@
 {
   "colorPalette": "electric-blue",
+  "axiTheme": "default",
+  "glass": false,
   "glassSurfaces": false,
-  "glassmorphic": false,
-  "axiDesign": false,
   "entries": [
+    {
+      "id": "20261003-203846-iw32",
+      "title": "Miss Léading",
+      "commanders": [
+        "Miss Léading"
+      ],
+      "guild": {
+        "id": "187E83EC-8A2F-E611-80D4-E4115BE8E905",
+        "name": "Some Lazy Aussie Players",
+        "tag": "SLAP"
+      },
+      "dateStart": "2026-10-03T10:38:46.000Z",
+      "dateEnd": "2026-10-03T11:04:54.369Z",
+      "dateLabel": "10/3/2026, 8:38:46 PM - 10/3/2026, 9:04:54 PM",
+      "url": "https://Nikslogs.github.io/WvWLogsSLAP/?report=20261003-203846-iw32",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 42,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 35,
+        "avgEnemySize": 44
+      }
+    },
     {
       "id": "20260925-201559-hel3",
       "title": "Markus Is One",
