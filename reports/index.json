@@ -5,9 +5,38 @@
   "glassSurfaces": false,
   "generator": {
     "app": "axibridge",
-    "version": "3.22.1"
+    "version": "3.22.2"
   },
   "entries": [
+    {
+      "id": "20261009-202000-3ym0",
+      "title": "Markus Headcrusher",
+      "commanders": [
+        "Markus Headcrusher"
+      ],
+      "guild": {
+        "id": "187E83EC-8A2F-E611-80D4-E4115BE8E905",
+        "name": "Some Lazy Aussie Players",
+        "tag": "SLAP"
+      },
+      "dateStart": "2026-10-09T10:20:00.000Z",
+      "dateEnd": "2026-10-09T11:15:44.879Z",
+      "dateLabel": "10/9/2026, 8:20:00 PM - 10/9/2026, 9:15:44 PM",
+      "url": "https://Nikslogs.github.io/WvWLogsSLAP/?report=20261009-202000-3ym0",
+      "publishedBy": "Nikslogs",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 13,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 29,
+        "avgEnemySize": 32
+      }
+    },
     {
       "id": "20261007-203634-aer9",
       "title": "Markus Is One",
