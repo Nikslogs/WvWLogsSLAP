@@ -9,6 +9,41 @@
   },
   "entries": [
     {
+      "id": "20261010-191311-1onu",
+      "title": "Luna The Instigator, Markus Headcrusher",
+      "commanders": [
+        "Luna The Instigator",
+        "Markus Headcrusher"
+      ],
+      "guild": {
+        "id": "187E83EC-8A2F-E611-80D4-E4115BE8E905",
+        "name": "Some Lazy Aussie Players",
+        "tag": "SLAP"
+      },
+      "dateStart": "2026-10-10T09:13:11.000Z",
+      "dateEnd": "2026-10-10T11:45:41.260Z",
+      "dateLabel": "10/10/2026, 7:13:11 PM - 10/10/2026, 9:45:41 PM",
+      "url": "https://Nikslogs.github.io/WvWLogsSLAP/?report=20261010-191311-1onu",
+      "publishedBy": "Nikslogs",
+      "summary": {
+        "borderlandsPct": 0.375,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 5,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 3,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 30,
+        "avgEnemySize": 20
+      }
+    },
+    {
       "id": "20261009-202000-3ym0",
       "title": "Markus Headcrusher",
       "commanders": [
