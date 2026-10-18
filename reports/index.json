@@ -5,9 +5,38 @@
   "glassSurfaces": false,
   "generator": {
     "app": "axibridge",
-    "version": "3.22.2"
+    "version": "3.22.9"
   },
   "entries": [
+    {
+      "id": "20261018-201833-cxdx",
+      "title": "Napalm Phantasm",
+      "commanders": [
+        "Napalm Phantasm"
+      ],
+      "guild": {
+        "id": "187E83EC-8A2F-E611-80D4-E4115BE8E905",
+        "name": "Some Lazy Aussie Players",
+        "tag": "SLAP"
+      },
+      "dateStart": "2026-10-18T10:18:33.000Z",
+      "dateEnd": "2026-10-18T10:31:08.014Z",
+      "dateLabel": "10/18/2026, 8:18:33 PM - 10/18/2026, 8:31:08 PM",
+      "url": "https://Nikslogs.github.io/WvWLogsSLAP/?report=20261018-201833-cxdx",
+      "publishedBy": "Nikslogs",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 22,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 28,
+        "avgEnemySize": 39
+      }
+    },
     {
       "id": "20261010-191311-1onu",
       "title": "Luna The Instigator, Markus Headcrusher",
