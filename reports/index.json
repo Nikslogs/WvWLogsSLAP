@@ -9,6 +9,40 @@
   },
   "entries": [
     {
+      "id": "20261020-190749-lbjp",
+      "title": "Miss Léading",
+      "commanders": [
+        "Miss Léading"
+      ],
+      "guild": {
+        "id": "187E83EC-8A2F-E611-80D4-E4115BE8E905",
+        "name": "Some Lazy Aussie Players",
+        "tag": "SLAP"
+      },
+      "dateStart": "2026-10-20T09:07:49.000Z",
+      "dateEnd": "2026-10-20T10:34:54.112Z",
+      "dateLabel": "10/20/2026, 7:07:49 PM - 10/20/2026, 8:34:54 PM",
+      "url": "https://Nikslogs.github.io/WvWLogsSLAP/?report=20261020-190749-lbjp",
+      "publishedBy": "Nikslogs",
+      "summary": {
+        "borderlandsPct": 0.07692307692307693,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 12,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 1,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 31,
+        "avgEnemySize": 19
+      }
+    },
+    {
       "id": "20261018-201833-cxdx",
       "title": "Napalm Phantasm",
       "commanders": [
