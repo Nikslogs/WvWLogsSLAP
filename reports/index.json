@@ -5,9 +5,48 @@
   "glassSurfaces": false,
   "generator": {
     "app": "axibridge",
-    "version": "3.22.9"
+    "version": "3.22.10"
   },
   "entries": [
+    {
+      "id": "20261027-192214-j04f",
+      "title": "Markus Headcrusher",
+      "commanders": [
+        "Markus Headcrusher"
+      ],
+      "guild": {
+        "id": "187E83EC-8A2F-E611-80D4-E4115BE8E905",
+        "name": "Some Lazy Aussie Players",
+        "tag": "SLAP"
+      },
+      "dateStart": "2026-10-27T09:22:14.000Z",
+      "dateEnd": "2026-10-27T11:25:07.732Z",
+      "dateLabel": "10/27/2026, 7:22:14 PM - 10/27/2026, 9:25:07 PM",
+      "url": "https://Nikslogs.github.io/WvWLogsSLAP/?report=20261027-192214-j04f",
+      "publishedBy": "Nikslogs",
+      "summary": {
+        "borderlandsPct": 0.5555555555555556,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 4,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 4,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 1,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 25,
+        "avgEnemySize": 16
+      }
+    },
     {
       "id": "20261026-191910-bz9b",
       "title": "Miss Léading",
