@@ -9,6 +9,35 @@
   },
   "entries": [
     {
+      "id": "20261031-203516-n4ky",
+      "title": "Markus Headcrusher",
+      "commanders": [
+        "Markus Headcrusher"
+      ],
+      "guild": {
+        "id": "187E83EC-8A2F-E611-80D4-E4115BE8E905",
+        "name": "Some Lazy Aussie Players",
+        "tag": "SLAP"
+      },
+      "dateStart": "2026-10-31T10:35:16.000Z",
+      "dateEnd": "2026-10-31T10:51:39.321Z",
+      "dateLabel": "10/31/2026, 8:35:16 PM - 10/31/2026, 8:51:39 PM",
+      "url": "https://Nikslogs.github.io/WvWLogsSLAP/?report=20261031-203516-n4ky",
+      "publishedBy": "Nikslogs",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 19,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 22,
+        "avgEnemySize": 30
+      }
+    },
+    {
       "id": "20261027-192214-j04f",
       "title": "Markus Headcrusher",
       "commanders": [
