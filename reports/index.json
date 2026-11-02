@@ -9,6 +9,35 @@
   },
   "entries": [
     {
+      "id": "20261102-195250-q9zh",
+      "title": "Miss Léading",
+      "commanders": [
+        "Miss Léading"
+      ],
+      "guild": {
+        "id": "187E83EC-8A2F-E611-80D4-E4115BE8E905",
+        "name": "Some Lazy Aussie Players",
+        "tag": "SLAP"
+      },
+      "dateStart": "2026-11-02T09:52:50.000Z",
+      "dateEnd": "2026-11-02T10:27:57.357Z",
+      "dateLabel": "11/2/2026, 7:52:50 PM - 11/2/2026, 8:27:57 PM",
+      "url": "https://Nikslogs.github.io/WvWLogsSLAP/?report=20261102-195250-q9zh",
+      "publishedBy": "Nikslogs",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 23,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 26,
+        "avgEnemySize": 32
+      }
+    },
+    {
       "id": "20261031-203516-n4ky",
       "title": "Markus Headcrusher",
       "commanders": [
